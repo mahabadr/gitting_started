@@ -1,2 +1,4 @@
 #git-ing started with git
 #### A fun project to learn ......
+---
+email me at [hello@devmarketer.io](Mailto:hello@devmarketer.io)
